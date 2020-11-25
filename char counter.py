@@ -1,5 +1,5 @@
 from tkinter import Tk,Button,Label,StringVar,Entry,DoubleVar
-
+sadas
 window =Tk()                                                                                                               #get a new window
 window.title('Character&word counter') #
 window.configure(background='red')                                                                                        #windowun değişkenlerini ayarladık
