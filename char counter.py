@@ -1,6 +1,6 @@
 from tkinter import Tk,Button,Label,StringVar,Entry,DoubleVar
-Mahmut Merhaba;
-window =Tk()                                                                                                               #boş bi pencere açtık
+
+window =Tk()                                                                                                               #get a new window
 window.title('Character&word counter') #
 window.configure(background='red')                                                                                        #windowun değişkenlerini ayarladık
 window.geometry('320x220')
